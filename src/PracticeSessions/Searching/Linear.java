@@ -45,6 +45,7 @@ public class Linear {
 
         System.out.println("Enter elements:");
 
+
         for (int i = 0; i < n.length; i++) {
             n[i] = sc.nextInt();
         }
